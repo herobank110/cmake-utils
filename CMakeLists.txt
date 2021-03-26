@@ -1,2 +1,2 @@
-cmake_minumum_required(VERSION 3.17)
+cmake_minimum_required(VERSION 3.17)
 include(utils.cmake)
